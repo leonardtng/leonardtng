@@ -9,7 +9,7 @@ I am proficient in React with TypeScript, and familiar Django REST Framework wit
 <br />
 <br />
 
-## :raising_hand: Get in Touch! 
+# :raising_hand: Get in Touch! 
 
 * Personal Website: [leonardtng.com][1]
 * LinkedIn: [linkedin.com/in/leonard-tng][2]
@@ -18,13 +18,13 @@ I am proficient in React with TypeScript, and familiar Django REST Framework wit
 * Email: <a href="mailto:theleonardtng@gmail.com">theleonardtng@gmail.com</a>
 <br />
 
-## :heart_eyes: Support Me! 
+# :heart_eyes: Support Me! 
 
 Projects such as my most recent one, [codecache.io][6], will incur server and maintenance costs. Every donation goes a long way! :pray:
 <br />
 <br />
 
-## :hammer_and_pick: Latest Project: [CodeCache][6]
+# :hammer_and_pick: Latest Project: [CodeCache][6]
 
 CodeCache is a platform that lets you add, edit and view your code snippets. With support for over 20 modes from Python to JSON snippets, CodeCache allows you to simplify your programming, and easily prepare for that upcoming exam or interview. Never forget the code that you write by storing them securely on CodeCache, entirely for free!
 
