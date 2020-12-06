@@ -13,6 +13,7 @@ Technical skill wise, I am working towards full-stack development, and is famili
 * LinkedIn: [linkedin.com/in/leonard-tng][2]
 * Instagram: [instagram.com/leonard.tng][3]
 * Medium: [medium.com/@leonardtng][4]
+* Patreon: [patreon.com/leonardtng][5]
 * Email: <a href="mailto:theleonardtng@gmail.com">theleonardtng@gmail.com</a>
 
 # :heart_eyes: Support Me! 
