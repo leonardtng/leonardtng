@@ -19,7 +19,7 @@ Technical skill wise, I am working towards full-stack development, and is famili
 
 Projects such as my most recent one, [codecache.io][6], will incur server and maintenance costs. Every donation goes a long way! :pray:
 
-Support me by [becoming a patron][6].
+Support me by [becoming a patron][5].
 
 # :hammer_and_pick: Latest Project: [CodeCache][6]
 
