@@ -19,6 +19,8 @@ Technical skill wise, I am working towards full-stack development, and is famili
 
 Projects such as my most recent one, [codecache.io][6], will incur server and maintenance costs. Every donation goes a long way! :pray:
 
+Support me by [becoming a patron][6].
+
 # :hammer_and_pick: Latest Project: [CodeCache][6]
 
 CodeCache is a platform that lets you add, edit and view your code snippets. With support for over 20 modes from Python to JSON snippets, CodeCache allows you to simplify your programming, and easily prepare for that upcoming exam or interview. Never forget the code that you write by storing them securely on CodeCache, entirely for free!
