@@ -17,7 +17,6 @@ I am proficient in React with TypeScript, and familiar Django REST Framework wit
 * Medium: [medium.com/@leonardtng][4]
 * Email: <a href="mailto:theleonardtng@gmail.com">theleonardtng@gmail.com</a>
 <br />
-<br />
 
 ## :heart_eyes: Support Me! 
 
