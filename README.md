@@ -3,7 +3,7 @@
 
 # Hello there :wave:!
 
-I am a software engineer from :singapore: Singapore with about a year of experience and I love creating exciting new products. I am passionate about technology and hope to be able to make an impact with the projects I create. Find out more about me at [leonardtng.com][1]!
+I am a software engineer from :singapore: Singapore currently studying at Yale-NUS College with about a year of experience in the field and I love creating exciting new products. I am passionate about technology and hope to be able to make an impact with the projects I create. Find out more about me at [leonardtng.com][1]!
 
 Technical skill wise, I am working towards full-stack development, and is familiar with React (TypeScript) for front-end as well as Django REST Framework (Python) for back-end. 
 
