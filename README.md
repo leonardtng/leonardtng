@@ -34,11 +34,11 @@ This is my first full-stack project and if you're interested to find out more pl
 
 <b>Note:</b> This repository for CodeCache is hosted on AWS CodeCommit instead GitHub.
 
-*And yes, I really like the Gilroy font for my projects as you might've noticed!*
+*And yes, as you can tell, I really like using the Gilroy font in my projects!*
 
 # :raising_hand: Get in Touch! 
 
-If you like what you see, don't hesitate to reach me at these links. I always enjoy a good chat!  :coffee:
+If you like what you see, don't hesitate to reach me at these links. I always enjoy a good chat! :coffee:
 
 * Personal Website: [leonardtng.com][1]
 * LinkedIn: [linkedin.com/in/leonard-tng][2]
