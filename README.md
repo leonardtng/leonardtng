@@ -24,7 +24,7 @@ View the project board on GitHub [here][8].
 
 [![CodeCache](https://github-readme-files.s3.ap-southeast-1.amazonaws.com/banner-codecache.jpg)][7]
 
-![](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=black&color=61DBFB) ![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=007acc) ![](https://img.shields.io/badge/-Django-informational?style=flat&logo=django&logoColor=white&color=092e20) ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=306998) ![](https://img.shields.io/badge/-AWS-informational?style=flat&logo=amazon&logoColor=white&color=FF9900)
+![](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=black&color=61DBFB) ![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=007acc) ![](https://img.shields.io/badge/-Django-informational?style=flat&logo=django&logoColor=white&color=092e20) ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=306998) ![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=0db7ed) ![](https://img.shields.io/badge/-AWS-informational?style=flat&logo=amazon&logoColor=white&color=FF9900)
 
 ### [CodeCache][6] | Lightweight Code Snippet Manager
 
