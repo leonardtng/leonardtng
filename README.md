@@ -6,7 +6,7 @@ I am a software engineer from :singapore: Singapore currently studying at [Yale-
 
 Occasionally, I write on [Medium][4] to document certain development processes I learnt along the way and on a typical day I like spending my time making random things with JavaScript and Python. Find out more about me at [leonardtng.com][1]!
 
-# :hammer_and_pick: Latest Projects: 
+# :hammer_and_pick: Latest Projects
 
 [![Cryptoscapes](https://github-readme-files.s3.ap-southeast-1.amazonaws.com/banner-cryptoscapes.jpg)][7]
 
@@ -47,7 +47,7 @@ If you like what you see, don't hesitate to reach me at these links. I always en
 * Patreon: [patreon.com/leonardtng][5]
 * Email: <a href="mailto:theleonardtng@gmail.com">theleonardtng@gmail.com</a>
 
-# :memo: GitHub Stats: 
+# :memo: GitHub Stats
 
 <a href="https://github.com/leonardtng?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardtng&hide=css,html&title_color=7C4DFF&text_color=ffffff&bg_color=030614&langs_count=3" />
