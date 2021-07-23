@@ -16,9 +16,9 @@ Occasionally, I write on [Medium][4] to document certain development processes I
 
 Cryptoscapes is a mini-project done over summer as a way for me to brush up my development skills with React, and also learn the state management tool, Redux. Additionally, I also used this as a chance to try out atomic design and also proper project management best practices. 
 
-In Cryptoscapes, you can view Cryptocurrency prices, trends, status updates, market snapshots and many more visualisations in a simple informative dashboard!
+In Cryptoscapes, you can view Cryptocurrency prices, trends, status updates, market snapshots and many more visualisations in a clean, informative dashboard!
 
-View the project board on GitHub [here][9].
+View the project board on GitHub [here][8].
 
 <br/>
 
