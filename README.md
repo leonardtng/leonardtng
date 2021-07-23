@@ -49,10 +49,10 @@ If you like what you see, don't hesitate to reach me at these links. I always en
 
 # :memo: GitHub Stats: 
 
-<a href="https://github.com/leonardtng/leonardtng">
+<a href="https://github.com/leonardtng?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardtng&hide=css,html&title_color=7C4DFF&text_color=ffffff&bg_color=030614&langs_count=3" />
 </a>
-<a href="https://github.com/leonardtng/leonardtng">
+<a href="https://github.com/leonardtng?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardtng&show_icons=true&line_height=27&count_private=true&title_color=7C4DFF&text_color=ffffff&icon_color=2196F3&bg_color=030614&theme=synthwave" alt="Martin's GitHub Stats" />
 </a>
 
