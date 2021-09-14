@@ -56,6 +56,8 @@ If you like what you see, don't hesitate to reach me at these links. I always en
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardtng&show_icons=true&line_height=27&count_private=true&title_color=7C4DFF&text_color=ffffff&icon_color=2196F3&bg_color=030614&theme=synthwave" alt="Martin's GitHub Stats" />
 </a>
 
+[![Leonard's github activity graph](https://activity-graph.herokuapp.com/graph?username=leonardtng&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 # :seedling: Other Cool Stuff
 
 <a href="https://github.com/leonardtng/cryptoscapes">
