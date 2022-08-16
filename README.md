@@ -2,7 +2,7 @@
 
 # Hello there! <img src="https://github-readme-files.s3.ap-southeast-1.amazonaws.com/wave.gif" height="30px" />
 
-I am a software engineer from :singapore: Singapore currently studying at [Yale-NUS College][9] with about three years of experience in the field. I am proficient in React (TypeScript) as well as Django REST Framework, and hope to create an impact with the projects I create.
+I am a software engineer from :singapore: Singapore currently studying at [Yale-NUS College][9] with about three years of experience in the field. I am proficient in React (TypeScript) as well as Django REST Framework among other modern web technologies, and hope to create an impact with the projects I create.
 
 Occasionally, I write on [Medium][4] to document certain development processes I learnt along the way and on a typical day I like spending my time making random things with JavaScript and Python. Find out more about me at [leonardtng.com][1]!
 
