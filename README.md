@@ -10,7 +10,7 @@ Occasionally, I write on [Medium][4] to document certain development processes I
 
 [![Ape Wallpapers](https://github-readme-files.s3.ap-southeast-1.amazonaws.com/banner-ape-wallpapers.jpg)][10]
 
-![](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=black&color=61DBFB) ![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=007acc) ![](https://img.shields.io/badge/-Redux-informational?style=flat&logo=redux&logoColor=white&color=764abc) ![](https://img.shields.io/badge/-Express-informational?style=flat&logo=nodedotjs&logoColor=white&color=68A063) ![](https://img.shields.io/badge/-AWS-informational?style=flat&logo=amazon&logoColor=white&color=FF9900)
+![](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=black&color=61DBFB) ![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=007acc) ![](https://img.shields.io/badge/-Redux-informational?style=flat&logo=redux&logoColor=white&color=764abc) ![](https://img.shields.io/badge/-Express-informational?style=flat&logo=nodedotjs&logoColor=white&color=339933) ![](https://img.shields.io/badge/-AWS-informational?style=flat&logo=amazon&logoColor=white&color=FF9900)
 
 ### [Ape Wallpapers][10] | Create wallpapers for your Bored Ape or Mutant Ape NFTs!
 
@@ -24,7 +24,7 @@ Take a look at all the happy users flexing their wallpapers on the dedicated Twi
 
 <br/>
 
-[![Cryptoscapes](https://github-readme-files.s3.ap-southeast-1.amazonaws.com/banner-cryptoscapes.jpg?)][7]
+[![Cryptoscapes](https://github-readme-files.s3.ap-southeast-1.amazonaws.com/banner-cryptoscapes.jpg)][7]
 
 ![](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=black&color=61DBFB) ![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=007acc) ![](https://img.shields.io/badge/-Redux-informational?style=flat&logo=redux&logoColor=white&color=764abc) ![](https://img.shields.io/badge/-AWS-informational?style=flat&logo=amazon&logoColor=white&color=FF9900)
 
