@@ -2,11 +2,27 @@
 
 # Hello there! <img src="https://github-readme-files.s3.ap-southeast-1.amazonaws.com/wave.gif" height="30px" />
 
-I am a software engineer from :singapore: Singapore currently studying at [Yale-NUS College][9] with about a year of experience in the field. I am proficient in React (TypeScript) as well as Django REST Framework, and hope to create an impact with the projects I create.
+I am a software engineer from :singapore: Singapore currently studying at [Yale-NUS College][9] with about three years of experience in the field. I am proficient in React (TypeScript) as well as Django REST Framework, and hope to create an impact with the projects I create.
 
 Occasionally, I write on [Medium][4] to document certain development processes I learnt along the way and on a typical day I like spending my time making random things with JavaScript and Python. Find out more about me at [leonardtng.com][1]!
 
 # :hammer_and_pick: Latest Projects
+
+[![Ape Wallpapers](https://github-readme-files.s3.ap-southeast-1.amazonaws.com/banner-ape-wallpapers.jpg)][10]
+
+![](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=black&color=61DBFB) ![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=007acc) ![](https://img.shields.io/badge/-Redux-informational?style=flat&logo=redux&logoColor=white&color=764abc) ![](https://img.shields.io/badge/-Express-informational?style=flat&logo=nodedotjs&logoColor=white&color=68A063) ![](https://img.shields.io/badge/-AWS-informational?style=flat&logo=amazon&logoColor=white&color=FF9900)
+
+### [Ape Wallpapers][10] | Create wallpapers for your Bored Ape or Mutant Ape NFTs!
+
+Ape Wallpapers is a project done for me to explore and experiment with image manipulation, since to construct the wallpaper, I had to combine images fetched from IPFS with logos and custom text of the user's choice.
+
+In the Ape Wallpapers web app, the process of creating mobile wallpapers of Bored Ape Yacht Club (BAYC) NFTs is extremely streamlined, allowing holders and community members to easily express their Web3 identity on their lock screens. The tool was very positively received by the community; reaching a peak user count of over 3000 users, as well as spawning an array of copies and similar websites from other NFT communities.
+
+Take a look at all the happy users flexing their wallpapers on the dedicated Twitter thread [here][11]!
+
+*Note: The repository of this project is private to prevent the easy proliferation of phishing sites rampant in the Web3 space. If you are interested in the code, feel free to contact me!*
+
+<br/>
 
 [![Cryptoscapes](https://github-readme-files.s3.ap-southeast-1.amazonaws.com/banner-cryptoscapes.jpg)][7]
 
@@ -81,3 +97,5 @@ If you like what you see, don't hesitate to reach me at these links. I always en
 [7]: https://www.cryptoscapes.org
 [8]: https://github.com/leonardtng/cryptoscapes/projects/1
 [9]: https://www.yale-nus.edu.sg/
+[10]: https://apewallpapers.com/
+[11]: https://twitter.com/Brainy8469/status/1533502239515414528
