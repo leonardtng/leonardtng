@@ -20,7 +20,7 @@ In the Ape Wallpapers web app, the process of creating mobile wallpapers of Bore
 
 Take a look at all the happy users flexing their wallpapers generated from the site on the dedicated Twitter thread [here][11]!
 
-*Note: The repository of this project is private to prevent the easy proliferation of phishing sites rampant in the Web3 space. If you are interested in the code, feel free to contact me!*
+<b>Note:</b> The repository of Ape Wallpapers is private to prevent the easy proliferation of phishing sites rampant in the Web3 space. If you are interested in the code, please feel free to contact me!
 
 <br/>
 
