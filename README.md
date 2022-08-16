@@ -16,9 +16,9 @@ Occasionally, I write on [Medium][4] to document certain development processes I
 
 Ape Wallpapers is a project done for me to explore and experiment with image manipulation, since to construct the wallpaper, I had to combine images fetched from IPFS with logos and custom text of the user's choice.
 
-In the Ape Wallpapers web app, the process of creating mobile wallpapers of Bored Ape Yacht Club (BAYC) NFTs is extremely streamlined, allowing holders and community members to easily express their Web3 identity on their lock screens. The tool was very positively received by the community; reaching a peak user count of over 3000 users, as well as spawning an array of copies and similar websites from other NFT communities.
+In the Ape Wallpapers web app, the process of creating mobile wallpapers of Bored Ape Yacht Club (BAYC) NFTs is extremely streamlined, allowing ape holders and community members to seamlessly express their Web3 identity on their lock screens. At launch, the tool was very positively received by the community; reaching a peak user count of over 3000 users, as well as spawning an array of copies and similar websites from other NFT communities.
 
-Take a look at all the happy users flexing their wallpapers on the dedicated Twitter thread [here][11]!
+Take a look at all the happy users flexing their wallpapers generated from the site on the dedicated Twitter thread [here][11]!
 
 *Note: The repository of this project is private to prevent the easy proliferation of phishing sites rampant in the Web3 space. If you are interested in the code, feel free to contact me!*
 
