@@ -66,26 +66,26 @@ If you like what you see, don't hesitate to reach me at these links. I always en
 # :memo: GitHub Stats
 
 <a href="https://github.com/leonardtng?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardtng&hide=css,html&title_color=7C4DFF&text_color=ffffff&bg_color=030614&langs_count=3" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leonardtng&show_icons=true&line_height=27&count_private=true&title_color=7C4DFF&text_color=ffffff&icon_color=2196F3&bg_color=030614&theme=synthwave" alt="Leonard's GitHub Stats" />
 </a>
 <a href="https://github.com/leonardtng?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardtng&show_icons=true&line_height=27&count_private=true&title_color=7C4DFF&text_color=ffffff&icon_color=2196F3&bg_color=030614&theme=synthwave" alt="Leonard's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leonardtng&hide=css,html&title_color=7C4DFF&text_color=ffffff&bg_color=030614&langs_count=3" />
 </a>
 
 # :seedling: Other Cool Stuff
 
 <a href="https://github.com/leonardtng/cryptoscapes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardtng&repo=cryptoscapes&title_color=7C4DFF&text_color=D7DCEC&icon_color=2196F3&bg_color=030614" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=leonardtng&repo=cryptoscapes&title_color=7C4DFF&text_color=D7DCEC&icon_color=2196F3&bg_color=030614" />
 </a>
 <a href="https://github.com/leonardtng/personal-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardtng&repo=personal-website&title_color=7C4DFF&text_color=D7DCEC&icon_color=2196F3&bg_color=030614" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=leonardtng&repo=personal-website&title_color=7C4DFF&text_color=D7DCEC&icon_color=2196F3&bg_color=030614" />
 </a>   
 
 <a href="https://github.com/leonardtng/write-some-love-letters">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardtng&repo=write-some-love-letters&title_color=7C4DFF&text_color=D7DCEC&icon_color=2196F3&bg_color=030614" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=leonardtng&repo=write-some-love-letters&title_color=7C4DFF&text_color=D7DCEC&icon_color=2196F3&bg_color=030614" />
 </a>
 <a href="https://github.com/leonardtng/door_contraption">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardtng&repo=door_contraption&title_color=7C4DFF&text_color=D7DCEC&icon_color=2196F3&bg_color=030614" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=leonardtng&repo=door_contraption&title_color=7C4DFF&text_color=D7DCEC&icon_color=2196F3&bg_color=030614" />
 </a>   
 
 [1]: https://www.leonardtng.com
