@@ -1,4 +1,4 @@
-[![Hello there :wave:](https://github-readme-files.s3.ap-southeast-1.amazonaws.com/cover.jpg?)][1]
+[![Hello there :wave:](https://github-readme-files.s3.ap-southeast-1.amazonaws.com/cover.jpg)][1]
 
 # Hello there! <img src="https://github-readme-files.s3.ap-southeast-1.amazonaws.com/wave.gif" height="30px" />
 
