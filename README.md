@@ -1,6 +1,6 @@
 [![Hello there :wave:](https://github-readme-files.s3.ap-southeast-1.amazonaws.com/cover.jpg)][1]
 
-# Hello there! <img src="https://github-readme-files.s3.ap-southeast-1.amazonaws.com/wave.gif" height="10px" />
+# Hello there! <img src="https://github-readme-files.s3.ap-southeast-1.amazonaws.com/wave.gif" height="30px" width="30px" />
 
 I am a software engineer from :singapore: Singapore with about four years of experience in the field, and have worked at various companies from start-ups to big tech. I am proficient in NextJS, React, TypeScript, Express, among other modern web technologies, and hope to create an impact with the projects I create.
 
