@@ -6,7 +6,7 @@ I am a software engineer from :singapore: Singapore with about four years of exp
 
 Occasionally, I write on [Medium][4] to document certain development processes I learnt along the way and on a typical day I like spending my time making random things with JavaScript and Python. Find out more about me at [leonardtng.com][1]!
 
-# :raising_hand: Get in Touch! 
+<!-- # :raising_hand: Get in Touch!
 
 If you like what you see, don't hesitate to reach me at these links. I always enjoy a good chat! :coffee:
 
@@ -15,7 +15,7 @@ If you like what you see, don't hesitate to reach me at these links. I always en
 * Instagram: [instagram.com/leonard.tng][3]
 * Medium: [medium.com/@leonardtng][4]
 * Patreon: [patreon.com/leonardtng][5]
-* Email: <a href="mailto:theleonardtng@gmail.com">theleonardtng@gmail.com</a>
+* Email: <a href="mailto:theleonardtng@gmail.com">theleonardtng@gmail.com</a> -->
 
 # :memo: GitHub Stats
 
@@ -31,16 +31,16 @@ If you like what you see, don't hesitate to reach me at these links. I always en
 <a href="https://github.com/leonardtng/cryptoscapes">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=leonardtng&repo=cryptoscapes&title_color=7C4DFF&text_color=D7DCEC&icon_color=2196F3&bg_color=030614" />
 </a>
-<a href="https://github.com/leonardtng/personal-website">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=leonardtng&repo=personal-website&title_color=7C4DFF&text_color=D7DCEC&icon_color=2196F3&bg_color=030614" />
-</a>   
+<a href="https://github.com/leonardtng/parsing-visualization">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=leonardtng&repo=parsing-visualization&title_color=7C4DFF&text_color=D7DCEC&icon_color=2196F3&bg_color=030614" />
+</a>
 
 <a href="https://github.com/leonardtng/write-some-love-letters">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=leonardtng&repo=write-some-love-letters&title_color=7C4DFF&text_color=D7DCEC&icon_color=2196F3&bg_color=030614" />
 </a>
 <a href="https://github.com/leonardtng/door_contraption">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=leonardtng&repo=door_contraption&title_color=7C4DFF&text_color=D7DCEC&icon_color=2196F3&bg_color=030614" />
-</a>   
+</a>
 
 [1]: https://www.leonardtng.com
 [2]: https://www.linkedin.com/in/leonard-tng/
