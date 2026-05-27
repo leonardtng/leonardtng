@@ -4,7 +4,7 @@
 
 I am a software engineer from :singapore: Singapore with about four years of experience in the field, and have worked at various companies from start-ups to big tech. I am proficient in NextJS, React, TypeScript, Express, among other modern web technologies, and hope to create an impact with the projects I create.
 
-Currently in San Francisco building data pipelines and RL environments at [Datacurve](12).
+Currently in San Francisco building data pipelines and RL environments at [Datacurve][12].
 
 <!-- # :raising_hand: Get in Touch!
 
