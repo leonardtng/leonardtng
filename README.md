@@ -4,7 +4,7 @@
 
 I am a software engineer from :singapore: Singapore with about four years of experience in the field, and have worked at various companies from start-ups to big tech. I am proficient in NextJS, React, TypeScript, Express, among other modern web technologies, and hope to create an impact with the projects I create.
 
-Occasionally, I write on [Medium][4] to document certain development processes I learnt along the way and on a typical day I like spending my time making random things with JavaScript and Python. Find out more about me at [leonardtng.com][1]!
+Currently in San Francisco building data pipelines and RL environments at [Datacurve](12).
 
 <!-- # :raising_hand: Get in Touch!
 
@@ -53,4 +53,4 @@ If you like what you see, don't hesitate to reach me at these links. I always en
 [9]: https://www.yale-nus.edu.sg/
 [10]: https://apewallpapers.com/
 [11]: https://twitter.com/Brainy8469/status/1533502239515414528
-[12]: https://github.com/leonardtng/ape-wallpapers
+[12]: https://datacurve.ai
